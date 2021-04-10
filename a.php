@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="rtl">
 <head>
-   <title></title>
+   <title>sad</title>
    <meta charset="UTF-8">
 </head>
 <body>
